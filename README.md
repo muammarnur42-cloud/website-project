@@ -17,7 +17,7 @@ Proyek latihan Fase 1 dari kurikulum belajar saya: memahami dasar HTML, CSS, Fle
 - Desain responsif dengan card dan shadow
 
 ## 📸 Preview
-
+![alt text](image.png)
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini
@@ -27,4 +27,4 @@ Proyek latihan Fase 1 dari kurikulum belajar saya: memahami dasar HTML, CSS, Fle
 Proyek ini adalah bagian dari Fase 1 (Fondasi HTML & CSS) dalam kurikulum belajar web development saya. Selanjutnya saya akan mempelajari JavaScript untuk menambah interaktivitas.
 
 ---
-Dibuat oleh Muammar Nur Islami
+Dibuat oleh Muammar Nur Islami8
